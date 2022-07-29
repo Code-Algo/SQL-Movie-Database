@@ -10,7 +10,6 @@ INSERT INTO concessions(concessions_name, "description", price) VALUES
 
 INSERT INTO movie(movie_name, "description") VALUES
 ('Cant Catch Me', 'Movie about an uncatchable man. Why do they want to catch him? We are never told. Riveting.'), 
-('Street Hookers On Ice', 'Its deeper than you think.'), 
 ('Suddenly Carnies', 'Horror film where, you guessed it, carnies appear out of absolutely nowhere and eat the children.'); 
 
 
